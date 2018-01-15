@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "bigfan (superfan 단축키 지정)",
+    "description": "superfan 사이트의 단축키 기능을 제공합니다."
+  },
+  "appShortName": {
+    "message": "bigfan",
+    "description": "superfan 사이트의 단축키 기능을 제공합니다."
+  },
+  "appDescription": {
+    "message": "superfan 사이트의 단축키 기능을 제공합니다.",
+    "description": "superfan 사이트의 단축키 기능을 제공합니다."
+  }
+}
